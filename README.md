@@ -1,4 +1,4 @@
-#Portfolio3
+My Portfolio
 
 A professional portfolio built with boostrap, jquery, font-awesome, and gulp.
 
